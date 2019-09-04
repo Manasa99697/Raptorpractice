@@ -1,0 +1,71 @@
+    1  PWD
+    2  cd desktop
+    3  cd MSTP-KSRM-APSSDC
+    4  PWD
+    5  git init
+    6  git config user.name
+    7  git config user.name vasudha
+    8  git config user.name
+    9  git config user.email dalaievasudha24@gmail.com
+   10  git config user.email
+   11  touch data.txt
+   12  echo "Hii welcome to mstp program" >>data.txt
+   13  cat data.txt
+   14  git status
+   15  git add data.txt
+   16  git commit -m "version1"
+   17  git remote -v
+   18  git remote add ksrm-mstp https://github.com/vasu0524/MSTP-KSRM-APSSDC
+   19  git remote -v
+   20  git pull ksrm-mstp --rebase master
+   21  pws
+   22  cd mydata
+   23  git init
+   24  git config user.name vasu
+   25  git config user.email vasu@gmail.com
+   26  touch mydata.txt
+   27  echu "hiii welcome" >>.txt
+   28  echo "hiii this is my personal data" >>.txt
+   29  git add mydata.txt
+   30  git commit -m "version1"
+   31  git remote -v
+   32  git remote add mydata https://github.com/vasu0524/mydata
+   33  git remote -v
+   34  git pull mydata --rebase master
+   35  git logs
+   36  git log
+   37  git config user.name
+   38  git config user.name
+   39  git config user.email
+   40  git init 
+   41  git add .
+   42  pwd
+   43  git config user.name
+   44  git config user.email
+   45  git status
+   46  git remote -v
+   47  ls
+   48  ls
+   49  git status
+   50  git add --a
+   51  git status
+   52  git commit -m "version3"
+   53  git remote -v
+   54  git push -u ksrm-mstp master
+   55  echo "# Raptorpractice" >> README.md
+   56  ls
+   57  git init
+   58  git add .
+   59  git commit -m "first commit"
+   60  git config user.name
+   61  git config user.name manasa
+   62* 
+   63  git config user.email
+   64  git config user.email manasanaga99@gmail.com
+   65  git config user.email
+   66  git commit -m "first commit"
+   67  git remote add origin https://github.com/Manasa99697/Raptorpractice.git
+   68  git push -u origin master
+   69  git push -u origin master
+   70  history
+   71  history>>history.txt
